@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+}
+
+.heading {
+    color: blue;
+}
+
+.para {
+    color: red;
+    border: 1px solid blue;
+}
+
+#favorite {
+    background-color: yellow;
+}
